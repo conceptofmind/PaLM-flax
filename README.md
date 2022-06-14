@@ -4,7 +4,7 @@
 - [Dr. Phil Wang](https://github.com/lucidrains/)
 
 ## PaLM-flax
-Implementation of the specific Transformer architecture from <a href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html">PaLM - Scaling Language Modeling with Pathways</a> - in Jax using [Flax](https://github.com/google/flax).
+Implementation of the Transformer architecture from <a href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html">PaLM - Scaling Language Modeling with Pathways</a> - in Jax using [Flax](https://github.com/google/flax).
 
 ## Usage
 
