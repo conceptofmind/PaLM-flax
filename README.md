@@ -1,6 +1,6 @@
 <img src="./palm.gif" width="450px"></img>
 
-## Acknowledgements:
+## In collaboration with:
 - [Dr. Phil Wang](https://github.com/lucidrains/)
 
 ## PaLM-flax
