@@ -1,7 +1,7 @@
 <img src="./palm.gif" width="450px"></img>
 
-## In collaboration with:
-- [Dr. Phil 'Lucid' Wang](https://github.com/lucidrains/)
+## Acknowledgement:
+I have been greatly inspired by the brilliant code of [Dr. Phil 'Lucid' Wang](https://github.com/lucidrains). Please check out his [open-source implementations](https://github.com/lucidrains) of multiple different transformer architectures and [support](https://github.com/sponsors/lucidrains) his work.
 
 ## PaLM-flax
 Implementation of the Transformer architecture from <a href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html">PaLM - Scaling Language Modeling with Pathways</a> - in Jax using [Flax](https://github.com/google/flax).
