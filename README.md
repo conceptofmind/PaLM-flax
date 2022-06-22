@@ -46,7 +46,7 @@ print(f"Number of parameters in Flax model: {n_params_flax}") # 55073280
 - [ ] Use [The Pile](https://github.com/EleutherAI/the-pile) from Eleuther AI 
 - [ ] Add logging with [Weights And Biases](https://wandb.ai/site)
 - [ ] Add pip installer with PyPI
-- [ ] Add a Tensorflow version as well
+- [ ] Add a Tensorflow and Keras version as well
 
 ## Author:
 - Enrico Shippole
